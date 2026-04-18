@@ -114,5 +114,6 @@ If you like what I build and want to support further development (or just feel l
 
 * PayPal: [https://www.paypal.com/paypalme/bunnypad](https://www.paypal.com/paypalme/bunnypad)
 * Throne: [https://throne.com/bunnypad](https://throne.com/bunnypad)
+* Buy Me a ~~Coffee~~ Chocolate: [https://buymeacoffee.com/bunnypad](https://buymeacoffee.com/bunnypad)
 
 No pressure, everything I make exists because I enjoy building it. But support is always appreciated and helps keep things moving.
