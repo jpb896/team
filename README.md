@@ -8,7 +8,7 @@ Meet the people behind **CharaROM**:
 * 🐩🐈🛌 **Nora / eepymeowers** — *(coming soon)*
 * [🌷 **Bahar / Spring**](https://github.com/CharaROMAndroid/team/blob/main/bahar-linda.md)
 * 💻 **Bashh** — *(coming soon)*
-* 🔥 **JPB** — *(coming soon)*
+* [🔥 **JPB**](https://github.com/CharaROMAndroid/team/blob/main/jpb896.md)
 
 ---
 
